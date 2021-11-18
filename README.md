@@ -7,7 +7,7 @@ Developed with Unreal Engine 4
 ##### This project will show off graphics such as lights, textures, and shaders.
 
 #### Downloading:
- - Click [here](https://github.com/JosephPena1/GraphicsDemo/releases/download/v0.30/Unreal3DGraphics.zip) to download the game
+ - Click [here](https://github.com/JosephPena1/GraphicsDemo/releases/download/v0.35/UnrealGraphics.zip) to download the game
  - After downloading right click the .zip file and "Extract to Unreal3DGraphics/"
  - Open "Unreal3DGraphics" and double-click "UnrealGraphics.exe" to play the game
 
