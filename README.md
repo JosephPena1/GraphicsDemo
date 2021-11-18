@@ -24,4 +24,3 @@ Keyboard:
 Mouse:
 
 - Left click - Interact when mouse is visible
-- Right click drag - Move camera
