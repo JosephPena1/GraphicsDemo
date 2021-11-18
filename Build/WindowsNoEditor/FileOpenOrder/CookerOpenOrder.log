@@ -8,39 +8,39 @@
 "../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/Animations/SK_Xbot_Idle.uasset" 7
 "../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/Animations/SK_Xbot_Run.uasset" 8
 "../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/Animations/SK_Xbot_Walk.uasset" 9
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/Animations/SK_Xbot_Locomotion.uasset" 10
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 11
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/SK_Xbot_AnimBP.uasset" 12
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/M_Xbot_Joints.uasset" 13
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/M_Xbot_Limbs.uasset" 14
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/SK_Xbot_PhysicsAsset.uasset" 15
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/SK_Xbot.uasset" 16
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/BP_Xbot_Character.uasset" 17
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/BP_UI.uasset" 18
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/UI.uasset" 19
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/AnimationButtons.uasset" 20
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Torch/T_Flame_D.uasset" 21
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Torch/M_Flame.uasset" 22
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Torch/PS_Torch.uasset" 23
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Torch/BP_Torch.uasset" 24
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/BP_Torch.uasset" 25
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/M_Flame.uasset" 26
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/PS_Torch.uasset" 27
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/T_Flame_D.uasset" 28
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/GrassTextures/T_Grass_ao.uasset" 29
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/GrassTextures/T_Grass_Diffuse.uasset" 30
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/GrassTextures/T_Grass_Height.uasset" 31
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/GrassTextures/T_Grass_Metallic.uasset" 32
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/GrassTextures/T_Grass_Normal-dx.uasset" 33
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/GrassTextures/T_Grass_Roughness.uasset" 34
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/M_Grass.uasset" 35
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/RockTextures/T_Rock_ao.uasset" 36
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/RockTextures/T_Rock_Diffuse.uasset" 37
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/RockTextures/T_Rock_Height.uasset" 38
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/RockTextures/T_Rock_Metallic.uasset" 39
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/RockTextures/T_Rock_Normal.uasset" 40
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/RockTextures/T_Rock_Roughness.uasset" 41
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/M_Rock.uasset" 42
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/Animations/SK_Xbot_WalkBack.uasset" 10
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/Animations/SK_Xbot_Locomotion.uasset" 11
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/Animations/SK_Xbot_JumpDown.uasset" 12
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/Animations/SK_Xbot_JumpUp.uasset" 13
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/Animations/SK_Xbot_Airborn.uasset" 14
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/SK_Xbot_AnimBP.uasset" 15
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/M_Xbot_Joints.uasset" 16
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/M_Xbot_Limbs.uasset" 17
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/SK_Xbot_PhysicsAsset.uasset" 18
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/SK_Xbot.uasset" 19
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/BP_Xbot_Character.uasset" 20
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/BP_UI.uasset" 21
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/UI.uasset" 22
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/AnimationButtons.uasset" 23
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/Animations/SK_Xbot_Jump.uasset" 24
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Torch/T_Flame_D.uasset" 25
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Torch/M_Flame.uasset" 26
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Torch/PS_Torch.uasset" 27
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Torch/BP_Torch.uasset" 28
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/BP_Torch.uasset" 29
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/M_Flame.uasset" 30
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/PS_Torch.uasset" 31
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/T_Flame_D.uasset" 32
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Structures/T_Wall_Block_Stone_N.uasset" 33
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/PostProcess/PP_Wavy.uasset" 34
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/PostProcess/TestProcess.uasset" 35
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/GrassTextures/T_Grass_ao.uasset" 36
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/GrassTextures/T_Grass_Diffuse.uasset" 37
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/GrassTextures/T_Grass_Height.uasset" 38
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/GrassTextures/T_Grass_Metallic.uasset" 39
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/GrassTextures/T_Grass_Normal-dx.uasset" 40
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/GrassTextures/T_Grass_Roughness.uasset" 41
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/M_Grass.uasset" 42
 "../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/SandTextures/T_Sand_ao.uasset" 43
 "../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/SandTextures/T_Sand_Diffuse.uasset" 44
 "../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/SandTextures/T_Sand_Height.uasset" 45
@@ -213,29 +213,28 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 212
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 213
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 214
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/GM_Xbot.uasset" 215
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/TestRGBLight.uasset" 216
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Worlds/DemoDungeon_sharedassets/Grass_LayerInfo.uasset" 217
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Worlds/DemoDungeon_sharedassets/Ground_LayerInfo.uasset" 218
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Worlds/DemoDungeon_sharedassets/Path_LayerInfo.uasset" 219
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/TextBlockBP.uasset" 215
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/GM_Xbot.uasset" 216
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/TestRGBLight.uasset" 217
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Worlds/DemoDungeon_sharedassets/Grass_LayerInfo.uasset" 218
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Worlds/DemoDungeon_sharedassets/Ground_LayerInfo.uasset" 219
 "../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Structures/T_Wall_Block_Stone_AO.uasset" 220
 "../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Structures/T_Wall_Block_Stone_D.uasset" 221
 "../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Structures/T_Wall_Block_Stone_Height.uasset" 222
 "../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Structures/T_Wall_Block_Stone_Metallic.uasset" 223
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Structures/T_Wall_Block_Stone_N.uasset" 224
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Structures/T_Wall_Block_Stone_R.uasset" 225
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Structures/M_Wall_Block_Stone.uasset" 226
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Particles/Distance_Blend.uasset" 227
-"../../../Engine/Content/EngineResources/DefaultTexture_Low.uasset" 228
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/MF_LandscapeBlend.uasset" 229
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 230
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 231
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 232
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/M_Landscape.uasset" 233
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/MI_LandScape_Desert.uasset" 234
-"../../../Engine/Content/BasicShapes/Cube.uasset" 235
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 236
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/BP_Menu.uasset" 237
-"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Worlds/DemoDungeon.umap" 238
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 239
-"../../../Engine/Content/Maps/Entry.umap" 240
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Structures/T_Wall_Block_Stone_R.uasset" 224
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Structures/M_Wall_Block_Stone.uasset" 225
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Particles/Distance_Blend.uasset" 226
+"../../../Engine/Content/EngineResources/DefaultTexture_Low.uasset" 227
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/MF_LandscapeBlend.uasset" 228
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 229
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 230
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 231
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/M_Landscape.uasset" 232
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Environment/Terrain/MI_LandScape_Desert.uasset" 233
+"../../../Engine/Content/BasicShapes/Cube.uasset" 234
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 235
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Characters/Xbot/BP_Menu.uasset" 236
+"../../../../../../Users/s208052/Unreal Engine/UnrealGraphics/Content/Worlds/DemoDungeon.umap" 237
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 238
+"../../../Engine/Content/Maps/Entry.umap" 239
